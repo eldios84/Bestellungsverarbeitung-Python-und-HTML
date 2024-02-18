@@ -1,4 +1,4 @@
-Titel: Selbstlernprojekt zur Bestellungsverarbeitung mit Python und HTML
+Selbstlernprojekt zur Bestellungsverarbeitung mit Python und HTML
 
 Dieser Code ist das Ergebnis eines Selbstlernprojekts, bei dem ich Python und HTML verwendet habe, um eine einfache Bestellungsverarbeitungsanwendung zu erstellen. Das Projekt demonstriert meine Fähigkeit, mich eigenständig in neue Technologien einzuarbeiten und praktische Anwendungen zu entwickeln.
 
